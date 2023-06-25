@@ -1,0 +1,278 @@
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Dialogs.FrmProject.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_DuAn.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Gnostice.Core.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Gnostice.Free.Documents.Controls.WinForms.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Gnostice.Free.Documents.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Gnostice.XtremeFontEngine.4.0.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Gnostice.XtremeImageEngine.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\log4net.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Dialogs.FrmProject.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_DuAn.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main\obj\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Frm_ThemTD.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dao.Frm_UngVien.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DA.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhanVienDA.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVuDA.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemDA.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoThongTinDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoPhongBanDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhongBan.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dialogs.Frm_ThemNhiemVu.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn_1_.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn_2_.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ChiTiet.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinNhiemVu.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NopFileNV.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_FileAttachment.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaCuaCapTren.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaGD.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaNV.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanLam.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanDanhGiaGD.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanCongNhiemVu.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_NhiemVu.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVuNho.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemNhiemVuNho.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanNhiemVuNho.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV_1_.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ChamCong.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Nest.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV_2_.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_NopFile.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_Luong.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_Trang.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemPhongBanDuAn.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_VangPhep.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_CapNhatNV_1_.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_CapNhatNV.resources
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\RestSharp.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.CodeDom.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.Odbc.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.OleDb.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.Packaging.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.Ports.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyCongTy.mdf
+C:\Users\HP\Desktop\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyCongTy_log.ldf
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyCongTy.mdf
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyCongTy_log.ldf
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Nest.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\RestSharp.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.CodeDom.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.Odbc.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.OleDb.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.Packaging.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.IO.Ports.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_Luong.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_NhiemVu.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_NopFile.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemDA.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dialogs.Frm_ThemNhiemVu.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemNhiemVuNho.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThemPhongBanDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Frm_ThemTD.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dao.Frm_UngVien.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_VangPhep.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_CapNhatNV_1_.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_CapNhatNV.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ChamCong.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ChiTiet.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DA.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaGD.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaNV.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhGiaCuaCapTren.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV_1_.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV_2_.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DanhSachNV.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_FileAttachment.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhanVienDA.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVuDA.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVuNho.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NopFileNV.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanCongNhiemVu.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanDanhGiaGD.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanLam.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhanNhiemVuNho.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_PhongBan.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn_1_.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn_2_.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoNhiemVuDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoPhongBanDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinNhiemVu.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_Trang.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TaoThongTinDuAn.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Nhom6-BuiDucLong-TranCongMinh\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.pdb
