@@ -9,7 +9,7 @@ Directors: Manage employees, calculate employee salaries, and assign projects
   Server name: (localdb)\mssqllocaldb
   Run Query in SQLQuery1.sql and ChamCong.sql
 - Properties (Server Explorer) -> copy value of connection string = ?? ex: (localdb)\mssqllocaldb (DESKTOP-78KHBSC\Loc)
-- Project name -> right click -> Properties -> Settings -> (create or open application settings)
+- Project name -> Properties -> Settings -> (create or open application settings)
   name = connStr
   scope = Application
   value = value of connection string
