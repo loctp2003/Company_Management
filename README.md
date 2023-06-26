@@ -1,5 +1,6 @@
 ## Description:
 Company management software used for employees and directors
+
 Employees: Edit personal information, attendance, and tasks
 Directors: Manage employees, calculate employee salaries, and assign projects
 
